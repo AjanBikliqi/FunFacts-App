@@ -15,7 +15,8 @@ List<Color> someColors = [
   Colors.teal,
   Colors.blue,
   Colors.blueGrey,
-  Colors.brown
+  Colors.brown,
+  Colors.black54
 ];
 
 Color dispcolor = Colors.primaries[Random().nextInt(Colors.primaries.length)];
